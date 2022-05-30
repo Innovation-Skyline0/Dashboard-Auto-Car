@@ -19,7 +19,7 @@ Dashboard de Carro
 
 Projeto desenvolvido em ReactJS durante aula de PWFE (Programação Web Front-End) no Senai Suiço Brasileira. 
 
-<p>Link do projeto: https://ecommerce-ws.netlify.app</p>
+<p>Link do projeto: https://autocar-dashboard.netlify.app</p>
 
 ---
 
@@ -32,7 +32,7 @@ Projeto desenvolvido em ReactJS durante aula de PWFE (Programação Web Front-En
 ---
 
 ## 🎨 Layout
-![E-Commerce](https://github.com/Innovation-Skyline0/E-Commerce/blob/main/_assets/layout.png)
+![Dashboard](https://github.com/Innovation-Skyline0/Dashboard-Auto-Car/blob/main/_assets/layout.png)
 
 ---
 
